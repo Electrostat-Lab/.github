@@ -2,7 +2,7 @@
 
 This organization currently introduces: 
 
-- [ ] [Avr-Sandbox](https://github.com/Software-Hardware-Codesign/AVR-Sandbox): Introduces testcases/tech-demos for avr protocols and digital electronics.
+- [x] [Avr-Sandbox](https://github.com/Software-Hardware-Codesign/AVR-Sandbox): Introduces testcases/tech-demos for avr protocols and digital electronics.
   - [ ] [Alpha]()
   - [ ] [Beta]()
   - [ ] [Release]()
@@ -22,12 +22,12 @@ This organization currently introduces:
   - [ ] [Beta]()
   - [ ] [Release]()
 
-- [ ] [Pi-Kiosk](https://github.com/Software-Hardware-Codesign/Pi-Kiosk): Introduces a kiosk activator script for the raspberry pi.
-  - [ ] [Alpha]()
+- [x] [Pi-Kiosk](https://github.com/Software-Hardware-Codesign/Pi-Kiosk): Introduces a kiosk activator script for the raspberry pi.
+  - [x] [Alpha]()
   - [ ] [Beta]()
   - [ ] [Release]()
 
-- [ ] [JoyStickModule](https://github.com/Software-Hardware-Codesign/JoyStickModule): Introduces a jme interface over the pi4j io library through MCP3008.
-  - [ ] [Alpha]()
-  - [ ] [Beta]()
-  - [ ] [Release]()
+- [x] [JoyStickModule](https://github.com/Software-Hardware-Codesign/JoyStickModule): Introduces a jme interface over the pi4j io library through MCP3008.
+  - [x] [Alpha](https://github.com/Software-Hardware-Codesign/JoyStickModule/releases/tag/1.0)
+  - [x] [Beta](https://github.com/Software-Hardware-Codesign/JoyStickModule/releases/tag/1.0.8R)
+  - [x] [Release](https://github.com/Software-Hardware-Codesign/JoyStickModule/releases/tag/1.0.9R)
