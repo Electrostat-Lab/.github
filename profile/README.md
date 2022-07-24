@@ -36,3 +36,10 @@ This organization currently introduces:
     - [x] [Alpha](https://github.com/Software-Hardware-Codesign/Vital-Watch/releases/tag/Alpha-0.1v)
     - [ ] [Beta]()
     - [ ] [Release]()
+-----------------------------
+### Contribution Depot: 
+If you want to join the organization or contribute, then PM me on: 
+
+[<img src="https://user-images.githubusercontent.com/60224159/180645937-40c0954c-03f4-4807-8063-7cd6ca917a7b.svg" width="80" height="80">](https://www.linkedin.com/in/pavl-g-420b81228/)
+[<img src="https://user-images.githubusercontent.com/60224159/180646113-6531aec4-66bc-44d8-9ba5-d1857e87359a.svg" width="80" height="80">](https://twitter.com/g_pavl)
+-----------------------------
