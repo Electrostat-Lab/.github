@@ -42,6 +42,6 @@ If you want to join the organization or contribute, then PM us on:
 
 [<img src="https://user-images.githubusercontent.com/60224159/180645937-40c0954c-03f4-4807-8063-7cd6ca917a7b.svg" width="60" height="60">](https://www.linkedin.com/in/pavl-g-420b81228/)
 [<img src="https://user-images.githubusercontent.com/60224159/180646113-6531aec4-66bc-44d8-9ba5-d1857e87359a.svg" width="60" height="60">](https://twitter.com/g_pavl)
-[<img src="https://user-images.githubusercontent.com/60224159/181487461-63226149-2870-4446-a954-b4112a5cb26c.svg" width="60" height="60">](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsmHbFSXfprQDzwSnKvsDVSmZZgSpScBPjTwBcNCxPCtmmFdpNHSZDtpPWMHMmFbvnmKfZBq)
+[<img src="https://user-images.githubusercontent.com/60224159/181487461-63226149-2870-4446-a954-b4112a5cb26c.svg" width="60" height="60">](https://mail.google.com/mail/u/0/?fs=1&to=bishoreyad@gmail.com&su=SUBJECT&body=BODY&bcc=&tf=cm)
 -----------------------------
 
