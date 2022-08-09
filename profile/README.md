@@ -23,7 +23,7 @@ This organization currently introduces:
   - [ ] [Release]()
 
 - [x]  <img src="https://user-images.githubusercontent.com/60224159/160303112-5e5850fc-52ba-4224-b845-575940b83a6b.png" width="30" height="30">  <img src="https://user-images.githubusercontent.com/60224159/160303372-8e0cc14f-5de0-4993-9f66-a018581e70ff.png" width="30" height="30">[Pi-Kiosk](https://github.com/Software-Hardware-Codesign/Pi-Kiosk): Introduces a kiosk activator script for the raspberry pi.
-  - [x] [Alpha]()
+  - [x] [Alpha](https://github.com/Software-Hardware-Codesign/Pi-Kiosk/releases/tag/1.0-A)
   - [ ] [Beta]()
   - [ ] [Release]()
 
