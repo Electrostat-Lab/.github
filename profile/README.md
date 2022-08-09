@@ -32,7 +32,7 @@ This organization currently introduces:
   - [x] [Beta](https://github.com/Software-Hardware-Codesign/JoyStickModule/releases/tag/1.0.8R)
   - [x] [Release](https://github.com/Software-Hardware-Codesign/JoyStickModule/releases/tag/1.0.9R)
 
-- [x] <img src="https://user-images.githubusercontent.com/60224159/180645356-e0442b27-adce-4796-b3ee-05e0b9406d83.svg" width="30" height="30">[Vital Watch](): Introduces a bluetooth watch android application to continously monitor vitals via bluetooth UART.
+- [x] <img src="https://user-images.githubusercontent.com/60224159/180645356-e0442b27-adce-4796-b3ee-05e0b9406d83.svg" width="30" height="30">[Vital Watch](https://github.com/Software-Hardware-Codesign/Vital-Watch): Introduces a bluetooth watch android application to continously monitor vitals via bluetooth UART.
     - [x] [Alpha](https://github.com/Software-Hardware-Codesign/Vital-Watch/releases/tag/Alpha-0.1v)
     - [ ] [Beta]()
     - [ ] [Release]()
