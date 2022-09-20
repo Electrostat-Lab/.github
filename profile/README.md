@@ -37,6 +37,8 @@ This organization currently introduces:
     - [ ] [Beta]()
     - [ ] [Release]()
 -----------------------------
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Software-Hardware-Codesign&layout=compact)
+-----------------------------
 ### Contribution Depot: 
 If you want to join the organization or contribute, then PM us on: 
 
