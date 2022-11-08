@@ -36,6 +36,9 @@ This organization currently introduces:
     - [x] [Alpha](https://github.com/Software-Hardware-Codesign/Vital-Watch/releases/tag/Alpha-0.1v)
     - [ ] [Beta]()
     - [ ] [Release]()
+
+- [x] <img src="https://github.com/Software-Hardware-Codesign/svg-scraper/blob/master/project-icon.png" width="30" height="30"></img>[svg-scraper](https://github.com/Software-Hardware-Codesign/svg-scraper): Introduces a bash script that scrapes svg files from the `/usr/share/icons/` based on an abstract-extractable interface.
+    - [x] [Release](https://github.com/Software-Hardware-Codesign/svg-scraper/releases/tag/v1.0.0)
 -----------------------------
 ### Contribution Depot: 
 If you want to join the organization or contribute, then PM us on: 
