@@ -3,22 +3,41 @@
 This organization currently introduces: 
 
 - [x] <img src="https://user-images.githubusercontent.com/60224159/220400745-2582342f-5f4f-4827-b65f-a037e078c890.svg" width="60" height="60"> [jme-alloc](https://github.com/Software-Hardware-Codesign/jme-alloc): A direct dynamic memory allocation api for jMonkeyEngine lwjgl-2 and android games.
-  - [ ] [Alpha]()
-  - [ ] [Beta]()
+  - [x] Alpha
+  - [x] Beta
+  - [x] [Gamma](https://github.com/Software-Hardware-Codesign/jme-alloc/releases/tag/1.0.0-pre-gamma-2) 
   - [ ] [Release]()
 
 - [x] <img src="https://user-images.githubusercontent.com/60224159/178119492-91d3cc70-a88f-4b9a-94a0-ca7b68b1d861.png" width="60" height="30"> [Avr-Sandbox](https://github.com/Software-Hardware-Codesign/AVR-Sandbox): Introduces testcases/tech-demos for avr protocols and digital electronics.
   - [ ] [Alpha]()
   - [ ] [Beta]()
   - [ ] [Release]()
-
-- [x] <img src="https://github.com/Software-Hardware-Codesign/Serial4j-v1/blob/development/serial-4j-rounded-corners.png" height=40 width=45/> [Serial4j-v1](https://github.com/Software-Hardware-Codesign/Serial4j-v1): A java GNU/Linux terminal IO library.
+  
+- [x] <img src="https://github.com/Software-Hardware-Codesign/Serial4j-v1/blob/master/.repo-resources/assets/serial-4j-rounded-corners.png" height=50 width=55/> [Serial4j-v1](https://github.com/Software-Hardware-Codesign/Serial4j-v1): A java GNU/Linux terminal IO library.
   - [x] [Alpha](https://github.com/Software-Hardware-Codesign/Serial4j-v1/packages/1758658)
   - [ ] [Beta]()
   - [ ] [Release]()
 
-- [ ] [ShiftAvr](https://github.com/Software-Hardware-Codesign/ShiftAvr): Introduces a core C library to control GPIO/UART/SPI/ADC/PWM/I2C as a substitute for the arduino core.
+- [x] <img src="https://user-images.githubusercontent.com/60224159/230797593-dafd6c8f-17fc-401f-a766-1461a048430f.png" width="60" height="30"> [ShiftAvr](https://github.com/Software-Hardware-Codesign/ShiftAvr): Introduces a core C library to control GPIO/UART/SPI/ADC/PWM/I2C as a substitute for the arduino core.
   - [ ] [Alpha]()
+  - [ ] [Beta]()
+  - [ ] [Release]()
+
+- [x] <img src="https://github.com/Software-Hardware-Codesign/Automata4j/blob/master/vending-machine-svgrepo-com.svg" width=45 height=45/>[Automata4j](https://github.com/Software-Hardware-Codesign/Automata4j): A classic Finite-State-Automaton Framework for JVM/Android Applications.
+  - [x] [Incubator](https://github.com/Software-Hardware-Codesign/Automata4j/releases/tag/incubator)
+  - [ ] [Alpha]()
+  - [ ] [Beta]()
+  - [ ] [Release]()
+
+- [x] <img src="https://github.com/Software-Hardware-Codesign/Jector/assets/60224159/dcaa688b-ddc1-4534-84e7-79f7da91f1a6" width=50 length=50/>[Jector](https://github.com/Software-Hardware-Codesign/Jector): A DI Framework for JVM/Android Applications with an interface for jMonkeyEngine Applications.
+  - [x] [Incubator](https://github.com/Software-Hardware-Codesign/Jector/releases/tag/incubator-2)
+  - [ ] [Alpha]()
+  - [ ] [Beta]()
+  - [ ] [Release]()
+
+- [x] <img src="https://github.com/Software-Hardware-Codesign/jSnapLoader/assets/60224159/85ac90d0-7d10-4d7c-a57e-390246ac5dee" width=40 height=40/> [jSnapLoader](https://github.com/Software-Hardware-Codesign/jSnapLoader): A high-performance cross-platform native Library loader API for JVM Applications.
+  - [x] [Incubator](https://github.com/Software-Hardware-Codesign/jSnapLoader/releases/tag/incubator-version)
+  - [x] [Alpha](https://github.com/Software-Hardware-Codesign/jSnapLoader/releases/tag/1.0.0-pre-alpha)
   - [ ] [Beta]()
   - [ ] [Release]()
   
