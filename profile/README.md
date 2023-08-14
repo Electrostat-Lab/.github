@@ -29,7 +29,7 @@ This organization currently introduces:
   - [ ] [Beta]()
   - [ ] [Release]()
 
-- [x] <img src="https://github.com/Software-Hardware-Codesign/Jector/assets/60224159/dcaa688b-ddc1-4534-84e7-79f7da91f1a6" width=50 length=50/>[Jector](https://github.com/Software-Hardware-Codesign/Jector): A DI Framework for JVM/Android Applications with an interface for jMonkeyEngine Applications.
+- [x] <img src="https://github.com/Software-Hardware-Codesign/Jector/assets/60224159/a7989a90-9c00-483c-9ffd-166f8a50b21c" width=50 length=50/>[Jector](https://github.com/Software-Hardware-Codesign/Jector): A DI Framework for JVM/Android Applications with an interface for jMonkeyEngine Applications.
   - [x] [Incubator](https://github.com/Software-Hardware-Codesign/Jector/releases/tag/incubator-2)
   - [ ] [Alpha]()
   - [ ] [Beta]()
