@@ -70,7 +70,10 @@ This organization currently introduces:
     - [x] [Release](https://github.com/Software-Hardware-Codesign/svg-scraper/releases/tag/v1.0.0)
 -----------------------------
 ### Contribution Depot: 
-If you want to join the organization or contribute, then PM us on: 
+
+[General Rules of contribution](https://github.com/Software-Hardware-Codesign/.github/blob/main/CONTRIBUTING.md)
+
+If you want to join the organization or contribute, and don't have any idea what to do, then PM us at: 
 
 [<img src="https://user-images.githubusercontent.com/60224159/180645937-40c0954c-03f4-4807-8063-7cd6ca917a7b.svg" width="60" height="60">](https://www.linkedin.com/in/pavl-g-420b81228/)
 [<img src="https://user-images.githubusercontent.com/60224159/180646113-6531aec4-66bc-44d8-9ba5-d1857e87359a.svg" width="60" height="60">](https://twitter.com/g_pavl)
