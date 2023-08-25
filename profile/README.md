@@ -1,4 +1,4 @@
-## Software~Hardware Codesign
+# Software~Hardware Codesign
 
 This organization currently introduces: 
 
@@ -68,15 +68,13 @@ This organization currently introduces:
 
 - [x] <img src="https://github.com/Software-Hardware-Codesign/svg-scraper/blob/master/project-icon.png" width="30" height="30"></img> [svg-scraper](https://github.com/Software-Hardware-Codesign/svg-scraper): Introduces a bash script that scrapes svg files from the `/usr/share/icons/` based on an abstract-extractable interface.
     - [x] [Release](https://github.com/Software-Hardware-Codesign/svg-scraper/releases/tag/v1.0.0)
------------------------------
-### Contribution Depot: 
 
-[General Rules of contribution](https://github.com/Software-Hardware-Codesign/.github/blob/main/CONTRIBUTING.md)
+## Contribution Depot: 
 
-If you want to join the organization or contribute, and don't have any idea what to do, then PM us at: 
+* [General Rules of contribution](https://github.com/Software-Hardware-Codesign/.github/blob/main/CONTRIBUTING.md)
 
-[<img src="https://user-images.githubusercontent.com/60224159/180645937-40c0954c-03f4-4807-8063-7cd6ca917a7b.svg" width="60" height="60">](https://www.linkedin.com/in/pavl-g-420b81228/)
-[<img src="https://user-images.githubusercontent.com/60224159/180646113-6531aec4-66bc-44d8-9ba5-d1857e87359a.svg" width="60" height="60">](https://twitter.com/g_pavl)
-[<img src="https://user-images.githubusercontent.com/60224159/181487461-63226149-2870-4446-a954-b4112a5cb26c.svg" width="60" height="60">](https://mail.google.com/mail/u/0/?fs=1&to=bishoreyad@gmail.com&su=SUBJECT&body=BODY&bcc=&tf=cm)
------------------------------
+* If you want to join the organization or contribute, and don't have any idea what to do, then PM us at: 
 
+> [<img src="https://user-images.githubusercontent.com/60224159/180645937-40c0954c-03f4-4807-8063-7cd6ca917a7b.svg" width="60" height="60">](https://www.linkedin.com/in/pavl-g-420b81228/)
+> [<img src="https://user-images.githubusercontent.com/60224159/180646113-6531aec4-66bc-44d8-9ba5-d1857e87359a.svg" width="60" height="60">](https://twitter.com/g_pavl)
+> [<img src="https://user-images.githubusercontent.com/60224159/181487461-63226149-2870-4446-a954-b4112a5cb26c.svg" width="60" height="60">](https://mail.google.com/mail/u/0/?fs=1&to=bishoreyad@gmail.com&su=SUBJECT&body=BODY&bcc=&tf=cm)
