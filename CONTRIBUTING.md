@@ -24,7 +24,7 @@ Opening issues is a perfect way to keep track of the history of your work.
 * Unit testing has minimal usage across the repositories here (since it's not a real application).
 * Features or stress tests utilizing a native API should be tested on all the supported platforms before merging the PR.
 
-## Discussions 
+### Discussions 
 Discussions about bugs, design defects, and features can be instantiated in different ways: 
 * The repositories' discussions.
 * The repositories' issues.
@@ -36,7 +36,7 @@ The repositories follow the following coding styles:
 * For **C/C++**, the coding style follows [NASA's Style of code](https://ntrs.nasa.gov/citations/19950022400) and [GNU libc style](https://www.gnu.org/prep/standards/standards.html).
 * For **Bash**, there are no rules to follow specifically.
 
-## Example of an OSS contribution
+### Example of an OSS contribution
 In [Automata4j](https://github.com/Software-Hardware-Codesign/Automata4j), recall we want to introduce the `DeterministicManager` for implementing the API for the deterministic finite-state-automata, the following steps should be followed: 
 * Forking the repository, and cloning the fork.
 > ```bash
@@ -57,7 +57,7 @@ In [Automata4j](https://github.com/Software-Hardware-Codesign/Automata4j), recal
 > $ git push origin featured-branch
 > ```
 
-## How to write a good issue description
+### How to write a good issue description
 * If the issue involves multiple tasks, it is best written using checkboxes to identify the to-do tasks.
 * In general, issues should simply describe the problem, how to reproduce it in an application environment, a proposed solution for this problem (if known by the issuer), and why this solution is better than others.
 
