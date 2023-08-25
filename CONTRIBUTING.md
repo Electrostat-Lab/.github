@@ -37,7 +37,7 @@ The repositories follow the following coding styles:
 * For **Bash**, there are no rules to follow specifically.
 
 ## Example of an OSS contribution
-In [Automata4j](https://github.com/Software-Hardware-Codesign/Automata4j/pull/2), recall we want to introduce the `DeterministicManager` for implementing the API for the deterministic finite-state-automata, the following steps should be followed: 
+In [Automata4j](https://github.com/Software-Hardware-Codesign/Automata4j), recall we want to introduce the `DeterministicManager` for implementing the API for the deterministic finite-state-automata, the following steps should be followed: 
 * Forking the repository, and cloning the fork.
 > ```bash
 > $ git clone https://github.com/_foo-organization_/Automata4j.git
@@ -70,5 +70,9 @@ This is a template for an issue on Automata4j:
 * Writing a good PR is never easy, describing what this PR targets (which issue), what this PR has added, and how to test this PR is required.
 * If the PR has added/modified multiple files, describing each addition/modification is also necessary.
 * Training yourself on good practices from the start will help you boost your Open Source Skills.
+* Here is [a good example of a tasked PR](https://github.com/Software-Hardware-Codesign/Automata4j/pull/2) of introducing the Deterministic Finite-State-Automata (DFSA) pattern to the Automata4j framework: 
+
+![image](https://github.com/Software-Hardware-Codesign/.github/assets/60224159/a71fda44-4bcd-4155-947a-53fdc5d4799e)
+
 
 > Don't hesitate to directly message me if in doubt.
