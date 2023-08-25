@@ -37,7 +37,7 @@ The repositories follow the following coding styles:
 * For **Bash**, there are no rules to follow specifically.
 
 ## Example of an OSS contribution
-In [Automata4j](), recall we want to introduce the `DeterministicManager` for implementing the API for the deterministic finite-state-automata, the following steps should be followed: 
+In [Automata4j](https://github.com/Software-Hardware-Codesign/Automata4j/pull/2), recall we want to introduce the `DeterministicManager` for implementing the API for the deterministic finite-state-automata, the following steps should be followed: 
 * Forking the repository, and cloning the fork.
 > ```bash
 > $ git clone https://github.com/_foo-organization_/Automata4j.git
