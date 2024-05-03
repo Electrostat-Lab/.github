@@ -1,4 +1,4 @@
-# Software~Hardware Codesign
+# Electrostat Laboratory
 
 This organization currently introduces: 
 
