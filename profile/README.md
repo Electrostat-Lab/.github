@@ -4,6 +4,21 @@ Welcome to the Electrostat-Lab organization. This organization is entailed to pr
 
 The projects that `Electrostat-Lab` provide ranges from purely software products, and hybrid hardware/software to purely embedded hardware. If you've a problem that you want us to ditch into with you, let us know immediately.
 
+Here is an exhaustive list of the projects that the _Electrostat-Lab_ currently provides: 
+* [Articular-ES](https://github.com/Electrostat-Lab/Articular-ES)
+* [jSnapLoader](https://github.com/Electrostat-Lab/jSnapLoader)
+* [Automata4j](https://github.com/Electrostat-Lab/Automata4j)
+* [Serial4j](https://github.com/Electrostat-Lab/Serial4j)
+* [Jector](https://github.com/Electrostat-Lab/Jector)
+* [Game-HCI](https://github.com/Electrostat-Lab/Game-HCI)
+* [Electrostatic-Sandbox](https://github.com/Electrostat-Lab/Electrostatic-Sandbox)
+* [Memory-patcher]()
+* [Generic-controls]()
+* [Cross-platform-template](https://github.com/Electrostat-Lab/Cross-platform-template)
+* [Pi-Kiosk](https://github.com/Electrostat-Lab/Pi-Kiosk)
+* [Jme3-testable](https://github.com/Electrostat-Lab/Jme3-testable)
+* [ShiftAvr](https://github.com/Electrostat-Lab/ShiftAvr)
+
 ## Contribution Depot: 
 * [General Rules of contribution](https://github.com/Software-Hardware-Codesign/.github/blob/main/CONTRIBUTING.md)
 * If you want to join the organization or contribute, and don't have any idea what to do, then PM us at: 
