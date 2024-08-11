@@ -1,7 +1,7 @@
 # Electrostat Laboratory
 
 <div align="center">
-<img src="https://github.com/Electrostat-Lab/.github/blob/main/profile/banner.png" width=1000 height="500"/>
+<img src="https://github.com/Electrostat-Lab/.github/blob/main/profile/banner.png" width=900 height="500"/>
 </div>
 
 ## Vision:
