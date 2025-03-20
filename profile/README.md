@@ -1,7 +1,5 @@
 # Electrostat Laboratory
 
-<img src=https://github.com/user-attachments/assets/73b527b2-69ba-481d-8390-1414a49cb650/>
-
 ## Vision:
 Welcome to the Electrostat-Lab organization. This organization is entailed to provide _Open-Source Hardware/Software services_ via tracking the Open-Source communities and ditching the most headache-producing problems, and trying to build problem analysis models, and eventually modelling and building solutions for them. We believe that everything should be Open-Sourced including the _Hardware/Software Specifications_ and the _Data Manuals_, and not only the source code; because we are humans and we need to be enlightened by the process that you've been into as much as your product. We are a team of independent developers who want to build things differently. And, what we mean by differently, is to make everything open including the process itself and the data used to build the products. The target is very difficult, however, with having structures in-mind, we could attain this. Please, help us, by starring, forking, and engaging with us on the repositories provided by the tag `electrostat-lab`.
 
